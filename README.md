@@ -6,6 +6,8 @@ This project presents a comprehensive equity portfolio analysis covering allocat
 
 The objective was to evaluate portfolio construction decisions, benchmark-relative performance, and risk-adjusted returns using quantitative financial measures.
 
+Powerbi Report - https://app.powerbi.com/links/xQzUj1qwpX?ctid=b87386c8-9083-4a27-9ddf-63a3dfa33850&pbi_source=linkShare
+
 Dataset :- https://www.kaggle.com/datasets/nikitamanaenkov/stock-portfolio-data-with-prices-and-indices
 
 ### Tools & Technologies
