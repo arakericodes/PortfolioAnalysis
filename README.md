@@ -1,115 +1,105 @@
-Portfolio Performance & Risk Analysis (2020–2025)
-Overview
+#   Portfolio Performance & Risk Analysis (2020–2025)
 
-This project presents a comprehensive portfolio analysis evaluating allocation structure, performance attribution, and risk-adjusted returns over the period 2020–2025.
+##  Project Overview
 
-The objective was to assess how portfolio construction decisions impacted returns relative to major benchmarks, while quantifying concentration risk and volatility exposure.
+This project presents a comprehensive equity portfolio analysis covering allocation structure, performance evaluation, and risk metrics over the period 2020–2025.
 
-Tools Used:
+The objective was to evaluate portfolio construction decisions, benchmark-relative performance, and risk-adjusted returns using quantitative financial measures.
 
-Power BI
+### Tools & Technologies
+- Power BI  
+- DAX (CAGR, Compounded Return, Volatility, Drawdown, Tracking Error)  
+- Excel (Data Cleaning & Preparation)
 
-DAX (CAGR, compounded return, drawdown, volatility, tracking error)
+### Benchmarks Used
+- S&P 500  
+- Nasdaq  
+- Dow Jones Industrial Average  
 
-Excel (data preparation)
+---
 
-Benchmarks:
+#  Portfolio Distribution Analysis
 
-S&P 500
+## Top Holdings (Weight %)
 
-Nasdaq
+- **LMT** – 13.45%  
+- **DE** – 11.56%  
+- **SPY** – 10.35%  
+- **TMUS** – 7.82%  
+- **JPM** – 7.39%  
 
-Dow Jones Industrial Average
+Three holdings individually exceed 10% allocation, indicating moderate portfolio concentration.
 
-Portfolio Distribution Analysis
-Top Holdings (Weight %)
+## Sector Allocation Insights
 
-LMT – 13.45%
+- **Military Engineering:** Highly concentrated (LMT ≈ 86% of sector exposure)  
+- **Agriculture:** Moderately concentrated (DE ≈ 69% of sector exposure)  
+- **Financials:** Relatively diversified across SPY, JPM, MSCI, IBKR, and MS  
 
-DE – 11.56%
+### Key Insight
+While overall allocation is balanced, certain sectors exhibit elevated single-stock concentration risk, increasing exposure to idiosyncratic volatility.
 
-SPY – 10.35%
+---
 
-TMUS – 7.82%
+#  Performance Analysis
 
-JPM – 7.39%
+## Absolute Performance
 
-Three holdings individually exceed 10%, indicating moderate concentration at the top of the portfolio.
+- **CAGR:** 18.90%  
+- Portfolio outperformed all three benchmarks over the analysis period.
 
-Sector Allocation Insights
+### Final Relative Comparison
 
-Military Engineering: Highly concentrated (LMT ≈ 86% of sector exposure)
+| Index      | Return |
+|------------|--------|
+| Portfolio  | +0.10% |
+| Nasdaq     | -7.91% |
+| S&P 500    | -3.64% |
+| Dow Jones  | -1.31% |
 
-Agriculture: Moderately concentrated (DE ≈ 69% of sector exposure)
+The portfolio closely tracked the S&P 500 while demonstrating tactical periods of outperformance.
 
-Financials: Relatively diversified across SPY, JPM, MSCI, IBKR, and MS
+## Top Performing Stocks (>10% Compounded Return)
 
-Key Insight:
-While overall allocation appears balanced, certain sectors exhibit significant single-stock concentration risk, increasing idiosyncratic exposure.
+- Netflix  
+- MSCI  
+- Deere & Co.  
 
-Performance Analysis
-Absolute Performance
+## Strongest Performing Sectors
 
-CAGR: 18.90%
+- Financials  
+- Information Technology  
+- Entertainment  
+- Agriculture  
 
-Portfolio outperformed all three benchmarks over the analysis period.
+---
 
-Final relative comparison:
+#  Risk Analysis
 
-Portfolio: +0.10%
-
-Nasdaq: -7.91%
-
-S&P 500: -3.64%
-
-Dow Jones: -1.31%
-
-The portfolio closely tracked the S&P 500 with intermittent periods of tactical outperformance.
-
-Top Performing Stocks (>10% compounded return)
-
-Netflix
-
-MSCI
-
-Deere & Co.
-
-Strongest Performing Sectors
-
-Financials
-
-Information Technology
-
-Entertainment
-
-Agriculture
-
-Risk Metrics
-
-Annualized Volatility: 21.77%
-
-Maximum Drawdown: 31.03%
-
-Sharpe Ratio: 0.72
+- **Annualized Volatility:** 21.77%  
+- **Maximum Drawdown:** 31.03%  
+- **Sharpe Ratio:** 0.72  
 
 The portfolio achieved moderate risk-adjusted returns consistent with a growth-oriented equity strategy.
 
-Tracking Error
+## Tracking Error
 
-vs Nasdaq: 42.33%
+- vs Nasdaq: 42.33%  
+- vs Dow Jones: 31.13%  
+- vs S&P 500: 26.54%  
 
-vs Dow Jones: 31.13%
+Higher tracking error versus Nasdaq reflects structural deviation from a tech-heavy benchmark.
 
-vs S&P 500: 26.54%
+---
 
-Higher tracking error versus Nasdaq reflects lower relative technology concentration compared to a tech-heavy benchmark.
+#  Key Takeaways
 
-Key Takeaways
+- Strong long-term growth profile (18.90% CAGR).  
+- Outperformance relative to major U.S. benchmarks.  
+- Sector-level concentration risk present in select industries.  
+- Risk-adjusted returns are reasonable, with scope for further optimization.
 
-Strong long-term growth profile (18.90% CAGR).
+---
 
-Successful relative outperformance versus major U.S. indices.
+# 📂 Repository Structure
 
-Sector-level concentration risk present in Military Engineering and Agriculture.
-
-Risk-adjusted returns are reasonable, with scope for improved diversification.
