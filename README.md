@@ -99,7 +99,6 @@ Higher tracking error versus Nasdaq reflects structural deviation from a tech-he
 - Sector-level concentration risk present in select industries.  
 - Risk-adjusted returns are reasonable, with scope for further optimization.
 
----
 
-# 📂 Repository Structure
+
 
