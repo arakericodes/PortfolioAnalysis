@@ -6,6 +6,8 @@ This project presents a comprehensive equity portfolio analysis covering allocat
 
 The objective was to evaluate portfolio construction decisions, benchmark-relative performance, and risk-adjusted returns using quantitative financial measures.
 
+Dataset :- https://www.kaggle.com/datasets/nikitamanaenkov/stock-portfolio-data-with-prices-and-indices
+
 ### Tools & Technologies
 - Power BI  
 - DAX (CAGR, Compounded Return, Volatility, Drawdown, Tracking Error)  
